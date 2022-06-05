@@ -29,7 +29,6 @@ Avoid getting help from friends or making others solve the problem. You will be 
 
 Good luck. 
 
-Feel free to write back to us if you have any question regarding problem statement. 
 
 
 
